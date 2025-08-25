@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sid
 - 👀 I’m interested in creating more data science projects
-- 🌱 I’m currently studying/rounding up a masters program in Data Science
-- 💞️ I’m looking to collaborate on DS projects
+-- 💞️ I’m looking to collaborate on DS projects
 - 📫 How to reach me ...+1 617 430 7443
 - 😄 Pronouns: ...HE/HIM
 - ⚡ Fun fact: ...I am also a Telco professional/Cyber Sec Analyst
